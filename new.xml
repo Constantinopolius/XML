@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<root>
+		<Fullname>Solovey Konstantsin Sergeevich
+			</Fullname>
+			<Age>32</Age>
+				<Pet>
+					<Cat>pet name buckingham</Cat>
+					<Breed>british blue</Breed>
+					<Age>8</Age>
+				</Pet>
+				<salary>2500</salary>
+	</root>

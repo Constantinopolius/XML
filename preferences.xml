@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<root>
+	<Preferencec>
+		<item0>
+			<Movies>
+				<item0>The Wolf of Wall Street</item0>
+				<item1>Interstellar</item1>
+				<item2>Tenet</item2>
+				<item3>Inception</item3>
+			</Movies>
+			<TV_show>
+				<item0>La casa de papel</item0>
+				<item1>Mandalorian</item1>
+				<item2>Loki</item2>
+			</TV_show>
+			<Food>
+				<item0>Fast food</item0>
+			</Food>
+			<Seasons>
+				<item0>Summer</item0>
+			</Seasons>
+			<Country>
+				<item0>Barcelona</item0>
+				<item1>Sweeden</item1>
+				<item2>United Arab Emirates</item2>
+			</Country>
+		</item0>
+	</Preferencec>
+</root>

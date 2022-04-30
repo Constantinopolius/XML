@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<root>
+    <program_skills>
+        <item0>SQL</item0>
+        <item1>SDLC</item1>
+        <item2>STLS</item2>
+        <item3>JSON</item3>
+        <item4>XML</item4>
+        <item5>API</item5>
+        <item6>POSTMAN</item6>
+        <item7>FIDLER</item7>
+        <item8>VPN</item8>
+        <item9>DevTools</item9>
+        <item10>Android Studio</item10>
+        <item11>Charles</item11>
+        <item12>Tterminal</item12>
+        <item13>Git</item13>
+        <item14>Python</item14>
+    </program_skills>
+    <root></root>
+</root>
