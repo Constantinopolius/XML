@@ -39,10 +39,10 @@ touch skills.xml
 vim skills.xml
  
 12. Сделать коммит в одну строку.
-git commit -am "add file skills and preferencec"
+git commit -am "add file skills and preferences"
  
 13. Отправить сразу 2 файла на внешний репозиторий.
-git push preferencec.txt skills.txt
+git push preferences.txt skills.txt
  
 14. На веб интерфейсе создать файл bug_report.xml.
 Заходим в репозиторий XML на против кнопки с выбором веток main нажимаем на кнопку с 3-мя горизонтальными точками 
