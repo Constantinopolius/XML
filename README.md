@@ -34,7 +34,7 @@ touch preferences.xml
 
 vim preferences.xml
 
-11. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
+11. Создать файл skills.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
 touch skills.xml
 vim skills.xml
  
